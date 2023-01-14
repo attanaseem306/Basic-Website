@@ -1,12 +1,154 @@
-.First{
-    background-color: rgb(105, 92, 29);
-    text-align: center;
+html{
+    scroll-behavior: smooth;
 }
+body{
+    background-color: rgba(9, 9, 9, 0.993);
+}
+body{
+    font-size:x-large;
+}
+.First{
+    background-color: rgb(218, 217, 228);
+    text-align: center;
+    color: blue;
+    border-radius: 60px;
+    font-style: oblique;
+    text-shadow: 2px 2px 4px;
+    line-height: 1.5em;
+}
+
+.First:hover{
+    background-color: rgba(133, 227, 92, 0.163);
+    color: white;
+}
+
 .second{
     background-color: rgba(154, 224, 203, 0.971);
     text-align: center;
+    border-radius: 60px;
+    font-style: oblique;
+    text-shadow: 2px 2px 4px;
+    line-height: 1.5em;
 }
-body{
-    background-color: rgb(115, 221, 107);
+
+.third{
+    background-color: rgba(74, 164, 82, 0.738); 
+}
+ .fouth{
+    background-color: rgb(8, 8, 8);
+    color: rgb(197, 244, 12);
+ }
+
+ .black{
+    text-decoration: none;
+    color: rgb(202, 246, 9);
+    font-size: 30px;
+    text-shadow: 2px 2px 4px;
+ }
+ .five{
+    width: 90px;
+    height: 40px;
+    background-color: black;
+ }
+
+ .six{
+    text-decoration:none;
+    color: rgba(216, 248, 4, 0.948);
+    background-color: rgb(10, 10, 10);
+    text-shadow: 2px 2px 4px;
+    font-size: 30px;
 
 }
+
+
+.seven{
+
+     text-align: center;
+     background-color: rgb(206, 245, 13);
+     color: rgb(13, 13, 13);
+     border-radius: 60px;
+     font-style: oblique;
+     text-shadow: 2px 2px 4px;
+     line-height: 1.5em;
+}
+
+.eight{
+
+background-color: rgb(246, 238, 238);
+color: rgb(21, 5, 58);
+font-size: 50px;
+text-align: center;
+border-radius: 60px;
+font-style: oblique;
+}
+
+li ,ul{
+
+color: rgb(233, 253, 5);
+background-color: rgb(10, 10, 10);
+
+
+}
+
+.nine{
+    color: rgb(10, 10, 10);
+    
+    background-color: rgba(235, 225, 225, 0.691);
+    text-align: center;
+    border-radius: 60px;
+    font-style: oblique;
+    text-shadow: 2px 2px 4px;
+    line-height: 1.5em;
+}
+
+.ten{
+     color: rgb(210, 227, 15);
+     border-radius: 50px;
+     background-color: rgb(10, 10, 10);
+     text-indent: 30px;
+     text-shadow: 4px 4px 4px;
+    
+}
+
+.eleven{
+
+    background-color: rgb(218, 217, 228);
+    text-align: center;
+    color: rgb(231, 20, 104);
+    border-radius: 60px;
+    font-style: oblique;
+    text-shadow: 2px 2px 4px;
+    line-height: 1.5em;
+}
+
+.six2{
+font-size: 25px;
+}
+
+.fifteen{
+    color: yellow;
+    font-size: xx-large;
+    text-align: center; 
+    text-decoration: none;  
+}
+
+.fifteen:hover{
+    color: rgb(166, 166, 175);
+    text-decoration: underline;
+    font-size: 33px;
+}
+
+
+a:link{
+    color: yellow;
+}
+a:hover{
+       color: rgb(254, 253, 253);
+       text-decoration: underline;
+       font-size: 33px;
+}
+a:active{
+        color: rgb(101, 67, 236);
+        
+}
+
